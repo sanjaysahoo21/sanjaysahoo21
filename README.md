@@ -16,6 +16,8 @@ Hi, I’m Sanju, a passionate Full-Stack Developer focused on building scalable 
 [![trophy](https://github-profile-trophy.vercel.app/?sanjaysahoo21=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?sanjaysahoo21=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 [![](https://visitcount.itsvg.in/api?id=sanjaysahoo21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
