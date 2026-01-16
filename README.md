@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦁 About Me:
 Hi, I’m Sanju, a passionate Full-Stack Developer focused on building scalable web applications and strengthening my problem-solving skills through Data Structures & Algorithms.<br><br>I have hands-on experience with Java, Spring Boot, React, and modern web technologies. I enjoy working on real-world projects like payment gateways and e-commerce platforms, where I learn system design, APIs, and performance optimization.<br><br>Currently, I’m improving my skills in backend architecture, databases, and DSA while building production-style projects.
 
 
