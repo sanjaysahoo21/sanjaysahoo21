@@ -10,7 +10,10 @@ Hi, I’m Sanju, a passionate Full-Stack Developer focused on building scalable 
 
 
 # 🧑‍🦱 Portfolio:
-![live](https://sanjay-s-portfolio-chi.vercel.app/)
+---
+[![live](https://sanjay-s-portfolio-chi.vercel.app/)]
+
+---
 
 ## 📈 GitHub Graph
 ---
