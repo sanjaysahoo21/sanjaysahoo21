@@ -11,9 +11,9 @@ Hi, I’m Sanju, a passionate Full-Stack Developer focused on building scalable 
 
 # 🧑‍🦱 Portfolio:
 ---
-[![live](https://sanjay-s-portfolio-chi.vercel.app/)]
-
+[![Live](https://img.shields.io/badge/Portfolio-Visit-blue)](https://sanjay-s-portfolio-chi.vercel.app/)
 ---
+
 
 ## 📈 GitHub Graph
 ---
